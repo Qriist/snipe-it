@@ -1,0 +1,1 @@
+﻿#include .\imageput@v1.10\ImagePut.ahk

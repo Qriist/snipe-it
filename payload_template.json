@@ -1,0 +1,18 @@
+{
+    "notes": null,
+    "assigned_user": null,
+    "assigned_location": null,
+    "assigned_asset": null,
+    "company_id": null,
+    "serial": null,
+    "order_number": null,
+    "warranty_months": null,
+    "purchase_cost": null,
+    "purchase_date": null,
+    "requestable": false,
+    "archived": false,
+    "rtd_location_id": null,
+    "name": null,
+    "location_id": null,
+    "image": ""
+}
