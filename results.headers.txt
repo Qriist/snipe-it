@@ -4,7 +4,7 @@ Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
 Cache-Control: max-age=0, must-revalidate, no-cache, no-store, private
-Date: Tue, 24 Dec 2024 11:03:41 GMT
+Date: Thu, 08 May 2025 06:06:12 GMT
 X-RateLimit-Limit: 120
 X-RateLimit-Remaining: 119
 Vary: Origin
@@ -17,7 +17,7 @@ Referrer-Policy: same-origin
 X-Frame-Options: DENY
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 Content-Security-Policy: default-src 'self';style-src 'self' 'unsafe-inline';script-src 'self' 'unsafe-inline' 'unsafe-eval';connect-src 'self';object-src 'none';font-src 'self' data:;img-src 'self' data: https://raybow.snipe-it.io   https://secure.gravatar.com http://gravatar.com maps.google.com maps.gstatic.com *.googleapis.com
-Set-Cookie: raybow_snipeitv6_session=IzoMX8rO9g3vtG8ucFLdx5VOP3SngtWbZOZ3Zh6k; expires=Wed, 01 Jan 2025 19:03:41 GMT; Max-Age=720000; path=/; domain=raybow.snipe-it.io; secure; httponly
+Set-Cookie: raybow_snipeitv6_session=nCzz4lUsAknTD6DQQ6pyqHKM3RFiJiNdWCGdWaYN; expires=Fri, 16 May 2025 14:06:12 GMT; Max-Age=720000; path=/; domain=raybow.snipe-it.io; secure; httponly; samesite=lax
 X-Grok-Id: euw2-snipe-it-shared1-prod
 X-Robots-Tag: noindex, nofollow, nosnippet, noarchive
 

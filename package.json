@@ -1,7 +1,9 @@
 ﻿{
 	"dependencies": {
 		"G33kDude/cJson": "^2.0.0",
-		"Qriist/LibQurl": "^v0.88.0",
+		"Qriist/LibQurl": "^v0.94.0",
+		"Qriist/libmagic": "github:Qriist/libmagic@^v0.80.0 --main Lib\\libmagic.ahk",
+		"SKAN/RunCMD": "aadeb56",
 		"iseahound/imageput": "^v1.10"
 	}
 }

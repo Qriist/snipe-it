@@ -1,0 +1,1 @@
+﻿#include .\libmagic@v0.80.0\Lib\libmagic.ahk
